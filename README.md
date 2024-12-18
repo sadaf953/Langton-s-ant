@@ -28,11 +28,3 @@ Langton's Ant moves on a grid according to these rules:
 
 ## Interesting Properties
 After a seemingly chaotic initial phase, the ant begins to create a distinctive recurring "highway" pattern.
-
-## License
-[Specify your license here]
-
-## Author
-[Your Name]
-
-Created on: 2024-12-11
